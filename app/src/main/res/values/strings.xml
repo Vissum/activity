@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activity</string>
+    <string name="autor_de_este_programa_kenneth">Autor de este programa: Kenneth</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="cerrar">Cerrar</string>
+</resources>
